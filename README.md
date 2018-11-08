@@ -18,4 +18,10 @@ In addition to the mobile application, we also built a small web page that can q
 
 Due to a NDA with TomTom, I can't share any code, but below you'll find screenshots of the app and the web page in action.
 
-![Alt text](/screenshots/HomeScreen.PNG)
+![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+
+![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+
+![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+
+![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
