@@ -18,10 +18,16 @@ In addition to the mobile application, we also built a small web page that can q
 
 Due to a NDA with TomTom, I can't share any code, but below you'll find screenshots of the app and the web page in action.
 
-![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/NeedLogin.PNG)
 
-![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+![Alt text](/screenshots/CurrentLocation.PNG)    ![Alt text](/screenshots/ConfirmCoordinates.PNG)
 
-![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+![Alt text](/screenshots/EmptyLog.PNG)    ![Alt text](/screenshots/FilledOutLog.PNG)
 
-![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/HomeScreen.PNG)
+![Alt text](/screenshots/NotUploadedHistory.PNG)    ![Alt text](/screenshots/Synced.PNG)
+
+![Alt text](/screenshots/UploadedHistory.PNG)    ![Alt text](/screenshots/Search.PNG)
+
+![Alt text](/screenshots/Editor.PNG)    ![Alt text](/screenshots/Login.PNG)
+
+![Alt text](/screenshots/WebPageHomeScreen.PNG)
