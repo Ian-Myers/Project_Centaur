@@ -16,7 +16,7 @@ We designed the mobile application to be cross-platform using Visual Studio, Apa
 
 In addition to the mobile application, we also built a small web page that can query information from the AWS database and export it to a CSV file for excel. That way, users can access the address data but can't alter the database.
 
-Due to a NDA with TomTom, I can't share any code, but below you'll find screenshots of the app and the web page in action.
+Below you'll find screenshots of the app and the web page in action. I have also attached a few sample code files.
 
 ![Alt text](/screenshots/HomeScreen.PNG)    ![Alt text](/screenshots/NeedLogin.PNG)
 
